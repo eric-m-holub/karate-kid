@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 Modify the 'active_training_label' value in 'livedatacollection.py' to train each respective action:
 | 0 | 1 | 2 | 3 | 4 |
-|:-----|:------:|------:|
+|:---:|:---:|:---:|:---:|:---:|
 |No Action|Sand the Floor|Wax On / Wax Off|Paint the Fence|Paint the House|
 
 
